@@ -1,0 +1,74 @@
+.button-main {
+    margin-right: 10px;
+    width: 96px;
+    height: 30px;
+    background: linear-gradient(312.9deg, rgba(255, 255, 255, 0.3) 4.49%, rgba(233, 240, 247, 0.3) 95.45%), #E9F0F7;
+    box-shadow: -3px -3px 10px rgba(255, 255, 255, 0.7), 3px 3px 10px rgba(138, 155, 189, 0.48);
+    border-radius: 60px;
+    border: 0;       
+}
+
+.button-text {
+    color: #8F9BB2;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 14px;
+}
+
+.img-size {
+    width: 10px;
+    height: 10px;
+}
+
+.row {
+    margin-bottom: 16px;
+}
+
+.button-logIn {
+    width: 200px;
+    height: 30px;
+    background: linear-gradient(312.9deg, rgba(255, 255, 255, 0.3) 4.49%, rgba(233, 240, 247, 0.3) 95.45%), #E9F0F7;
+    box-shadow: -3px -3px 10px rgba(255, 255, 255, 0.7), 3px 3px 10px rgba(138, 155, 189, 0.48);
+    border-radius: 60px;
+    border: 0;
+}
+
+.button-span-logIn {
+    width: 36px;
+    height: 17px;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    color: #8F9BB2;
+}
+
+.text-input {
+    box-sizing: border-box;
+    width: 200px;
+    height: 30px;
+    background: linear-gradient(312.9deg, rgba(255, 255, 255, 0.3) 4.49%, rgba(233, 240, 247, 0.3) 95.45%), #E9F0F7;
+    box-shadow: inset -3px -3px 10px rgba(255, 255, 255, 0.7), inset 3px 3px 10px rgba(138, 155, 189, 0.4);
+    border-radius: 60px;
+    border: 0;    
+    font-weight: 400;
+    font-size: 10px;
+    color: #8F9BB2;
+    padding-left: 10px;
+}
+
+input::placeholder {
+    color: #8F9BB2;
+}
+
+.log-in {
+    width: 61px;
+    height: 20px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #8F9BB2;
+    margin-bottom: 33px;
+    margin-left: 70px;
+}
